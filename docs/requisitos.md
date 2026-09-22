@@ -24,3 +24,31 @@
 
 
 
+\## Políticas de préstamo por tipo de usuario
+
+
+
+A partir de la solicitud del cliente, la biblioteca atenderá a tres tipos
+
+de usuario con políticas diferenciadas:
+
+
+
+\- Estudiantes: hasta 3 libros por 7 días.
+
+\- Profesores: hasta 5 libros por 15 días.
+
+\- Personal administrativo: hasta 2 libros por 5 días.
+
+
+
+\### Requisitos funcionales asociados
+
+
+
+1\. El sistema debe identificar el tipo de usuario al momento del préstamo.
+
+2\. El sistema debe aplicar automáticamente la política correspondiente.
+
+3\. El sistema debe registrar el tipo de usuario en cada préstamo.
+
