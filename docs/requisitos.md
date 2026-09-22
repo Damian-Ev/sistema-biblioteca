@@ -52,3 +52,13 @@ de usuario con políticas diferenciadas:
 
 3\. El sistema debe registrar el tipo de usuario en cada préstamo.
 
+
+
+\### Excepciones a las políticas
+
+
+
+\- Los profesores con antigüedad mayor a 5 años podrán solicitar hasta 7 libros.
+
+\- El personal administrativo podrá renovar préstamos una vez si no hay lista de espera.
+
