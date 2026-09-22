@@ -30,11 +30,7 @@
 
 A partir de la solicitud del cliente, la biblioteca atenderá a tres tipos
 
-de usuario con políticas diferenciadas:
-
-
-
-\- Estudiantes: hasta 3 libros por 7 días.
+de usuario con políticas diferenciadas: \- Estudiantes: hasta 3 libros por 365 días.
 
 \- Profesores: hasta 5 libros por 15 días.
 
