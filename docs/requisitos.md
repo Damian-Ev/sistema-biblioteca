@@ -34,7 +34,7 @@ de usuario con políticas diferenciadas:
 
 
 
-\- Estudiantes: hasta 3 libros por 7 días.
+\- Estudiantes: hasta 4 libros por 10 días.
 
 \- Profesores: hasta 5 libros por 15 días.
 
