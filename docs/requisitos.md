@@ -24,3 +24,11 @@
 
 
 
+\## Nota del Ejercicio 5
+
+
+
+Este documento fue modificado localmente sin actualizar main,
+
+para simular el escenario de una copia desactualizada.
+
