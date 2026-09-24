@@ -69,4 +69,14 @@ de usuario con políticas diferenciadas:
 
 \- El personal administrativo podrá renovar préstamos una vez si no hay lista de espera.
 
+## Módulo de Reservas
+
+### Reglas de negocio
+
+- **RBR-01:** Solo se permite reservar un libro cuando su disponibilidad sea 0 (stock agotado).
+- **RBR-02:** Al confirmar la reserva, el sistema debe registrar automáticamente la fecha de la solicitud.
+- **RBR-03:** El sistema debe registrar el usuario que realizó la reserva.
+- **RBR-04:** Una reserva queda en estado "pendiente" hasta que el libro esté disponible nuevamente.
+- **RBR-05:** El sistema debe notificar al usuario cuando el libro reservado esté disponible.
+
 
